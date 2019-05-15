@@ -34,7 +34,7 @@ public class MyClass {
         String expectedTitle = "SPIRE Logon";
         String actualTitle = "";
 
-        // launch Fire fox and direct it to the Base URL
+        // launch Chrome and direct it to the Base URL
         driver.get(baseUrl);
 
         // get the actual value of the title
